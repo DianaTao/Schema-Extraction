@@ -1,0 +1,84 @@
+{
+  "Orion Creative Studios": {
+    "location": 0.9,
+    "industry": 0.8,
+    "role": 0.7
+  },
+  "Galaxy Innovations": {
+    "location": 0.8,
+    "industry": 0.7,
+    "role": 0.6
+  },
+  "David Chen": {
+    "role": 0.95,
+    "title": 0.9
+  },
+  "Stellar Visions": {
+    "project_type": 0.85,
+    "status": 0.7
+  },
+  "Genesis Pro": {
+    "product_type": 0.9,
+    "feedback": 0.8
+  },
+  "Nexus Enterprises": {
+    "partnership_interest": 0.9,
+    "innovative_approach": 0.8
+  },
+  "Aurora Technologies": {
+    "partnership_proposal": 0.95,
+    "latest_product": 0.85
+  },
+  "Quantum Plus": {
+    "enhancement_potential": 0.9,
+    "market_growth": 0.8
+  },
+  "Emma Torres": {
+    "role": 0.95,
+    "communication_style": 0.7
+  },
+  "Infinity Cycle": {
+    "alignment_with_vision": 0.85,
+    "technological_advancement": 0.8
+  },
+  "Sofia Martinez": {
+    "role": 0.9,
+    "company": 0.95
+  },
+  "SynthWave Audio": {
+    "industry": 0.85,
+    "product": 0.9
+  },
+  "Harmonic Ventures": {
+    "industry": 0.8,
+    "recent_work": 0.75
+  },
+  "Sonata Crystal speaker series": {
+    "attribute": 0.9,
+    "acoustic_quality": 0.95
+  },
+  "Lisa Kim": {
+    "role": 0.9,
+    "company": 0.95
+  },
+  "Neptune Studios": {
+    "industry": 0.85,
+    "partnerships": 0.8
+  },
+  "Stellar Dynamics": {
+    "industry": 0.85,
+    "projects": 0.7
+  },
+  "Orion XR headset": {
+    "type": 0.9,
+    "function": 0.8
+  },
+  "Cosmic Journeys": {
+    "type": 0.9,
+    "format": 0.75
+  },
+  "meeting": {
+    "purpose": 0.9,
+    "timeframe": 0.8
+  }
+}

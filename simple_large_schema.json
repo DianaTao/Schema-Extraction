@@ -1,0 +1,286 @@
+{
+   "entities": [
+      {
+         "entityType": "PERSON",
+         "personalDetails": {
+            "birthDate": null,
+            "birthPlace": {
+               "place": null,
+               "placeURI": null
+            },
+            "gender": null,
+            "ethnicity": null,
+            "languageSkills": [
+               {
+                  "language": null,
+                  "dialects": [
+                     null
+                  ],
+                  "skillLevels": [
+                     {
+                        "proficiencyType": null,
+                        "proficiencyLevel": null
+                     }
+                  ]
+               }
+            ],
+            "maritalStatus": null
+         },
+         "professionalDetails": {
+            "employmentRecords": [
+               {
+                  "employer": {
+                     "reference": null,
+                     "referenceURI": null
+                  },
+                  "jobDescription": null,
+                  "profession": null,
+                  "title": null,
+                  "hireDate": null,
+                  "terminationDate": null
+               }
+            ],
+            "educationalRecords": [
+               {
+                  "institution": {
+                     "reference": null,
+                     "referenceURI": null
+                  },
+                  "degree": null,
+                  "major": null,
+                  "completionDate": null
+               }
+            ]
+         },
+            "entityCommon": {
+            "nationality": null,
+            "numberOfObservations": null,
+            "physicalAddresses": [
+               {
+                  "name": null,
+                  "description": null,
+                  "streetNumber": null,
+                  "streetName": null,
+                  "boxNumber": null,
+                  "apartmentNumber": null,
+                  "city": null,
+                  "regionDistrict": null,
+                  "stateProvince": null,
+                  "country": null,
+                  "postalCode": null,
+                  "addressType": null
+               }
+            ]
+         }
+      },
+      {
+         "entityType": "CORPORATION",
+         "corporateDetails": {
+            "industry": null,
+            "foundedDate": null,
+            "founders": [
+               null
+            ],
+            "headquarters": {
+               "location": null,
+               "locationURI": null
+            },
+            "numberOfEmployees": null
+         },
+         "financialDetails": {
+            "annualRevenue": {
+               "currencyType": null,
+               "currencyAmount": null
+            },
+            "marketCap": {
+               "currencyType": null,
+               "currencyAmount": null
+            }
+         },
+         "entityCommon": {
+            "nationality": null,
+            "numberOfObservations": null,
+            "physicalAddresses": [
+               {
+                  "name": null,
+                  "description": null,
+                  "streetNumber": null,
+                  "streetName": null,
+                  "boxNumber": null,
+                  "apartmentNumber": null,
+                  "city": null,
+                  "regionDistrict": null,
+                  "stateProvince": null,
+                  "country": null,
+                  "postalCode": null,
+                  "addressType": null
+               }
+            ]
+         }
+      },
+      {
+         "entityType": "CREATIVE_WORK",
+         "creativeWorkDetails": {
+            "title": null,
+            "creator": null,
+            "publicationDate": null,
+            "genre": null,
+            "language": null,
+            "format": null
+         },
+         "distributionDetails": {
+            "publisher": null,
+            "distributionChannels": [
+               null
+            ],
+            "availabilityStatus": null
+         },
+         "entityCommon": {
+            "nationality": null,
+            "numberOfObservations": null,
+            "physicalAddresses": [
+               {
+                  "name": null,
+                  "description": null,
+                  "streetNumber": null,
+                  "streetName": null,
+                  "boxNumber": null,
+                  "apartmentNumber": null,
+                  "city": null,
+                  "regionDistrict": null,
+                  "stateProvince": null,
+                  "country": null,
+                  "postalCode": null,
+                  "addressType": null
+               }
+            ]
+         }
+      },
+      {
+         "entityType": "GROUP",
+         "groupDetails": {
+            "groupName": null,
+            "groupType": null,
+            "foundingDate": null,
+            "members": [
+               null
+            ],
+            "leadership": null
+         },
+         "activityDetails": {
+            "activities": [
+               null
+            ],
+            "activityStatus": null,
+            "activityLocations": [
+               {
+                  "location": null,
+                  "locationURI": null
+               }
+            ]
+         },
+         "entityCommon": {
+            "nationality": null,
+            "numberOfObservations": null,
+            "physicalAddresses": [
+               {
+                  "name": null,
+                  "description": null,
+                  "streetNumber": null,
+                  "streetName": null,
+                  "boxNumber": null,
+                  "apartmentNumber": null,
+                  "city": null,
+                  "regionDistrict": null,
+                  "stateProvince": null,
+                  "country": null,
+                  "postalCode": null,
+                  "addressType": null
+               }
+            ]
+         }
+      },
+      {
+         "entityType": "LOCATION",
+         "locationDetails": {
+            "locationName": null,
+            "locationType": null,
+            "coordinates": {
+               "latitude": null,
+               "longitude": null
+            },
+            "region": null,
+            "country": null
+         },
+         "historicalDetails": {
+            "establishedDate": null,
+            "significantEvents": [
+               null
+            ],
+            "population": null
+         },
+         "entityCommon": {
+            "nationality": null,
+            "numberOfObservations": null,
+            "physicalAddresses": [
+               {
+                  "name": null,
+                  "description": null,
+                  "streetNumber": null,
+                  "streetName": null,
+                  "boxNumber": null,
+                  "apartmentNumber": null,
+                  "city": null,
+                  "regionDistrict": null,
+                  "stateProvince": null,
+                  "country": null,
+                  "postalCode": null,
+                  "addressType": null
+               }
+            ]
+         }
+      },
+      {
+         "entityType": "PRODUCT",
+         "productDetails": {
+            "productName": null,
+            "productType": null,
+            "manufacturer": null,
+            "releaseDate": null,
+            "specifications": [
+               null
+            ]
+         },
+         "marketDetails": {
+            "price": {
+               "currencyType": null,
+               "currencyAmount": null
+            },
+            "availability": null,
+            "distributionChannels": [
+               null
+            ]
+         },
+         "entityCommon": {
+            "nationality": null,
+            "numberOfObservations": null,
+            "physicalAddresses": [
+               {
+                  "name": null,
+                  "description": null,
+                  "streetNumber": null,
+                  "streetName": null,
+                  "boxNumber": null,
+                  "apartmentNumber": null,
+                  "city": null,
+                  "regionDistrict": null,
+                  "stateProvince": null,
+                  "country": null,
+                  "postalCode": null,
+                  "addressType": null
+               }
+            ]
+         }
+      }
+   ]
+}

@@ -1,0 +1,141 @@
+{
+  "Omega Corporations": {
+    "headquarters": 0.9,
+    "partnerships": 0.8,
+    "commitment to sustainability": 0.95
+  },
+  "SolarLink": {
+    "type": 0.9,
+    "design": 0.85,
+    "impact": 0.9
+  },
+  "Andrew Thompson": {
+    "position": 0.95,
+    "public speaking": 0.8
+  },
+  "Global Green Foundation": {
+    "collaboration": 0.9
+  },
+  "NovaTech Studios": {
+    "collaboration": 0.9
+  },
+  "environmental groups": {
+    "attention": 0.85,
+    "accolades": 0.8
+  },
+  "government agencies": {
+    "interest": 0.8,
+    "integration potential": 0.85
+  },
+  "Naomi Rivera": {
+    "role": 0.9,
+    "entrepreneurship": 0.85
+  },
+  "Titan Motors": {
+    "industry": 0.95,
+    "location": 0.9,
+    "innovation": 0.9,
+    "sustainability": 0.9,
+    "partnerships": 0.85
+  },
+  "ThunderVolt 360": {
+    "model_type": 0.95,
+    "energy_efficiency": 0.9,
+    "design": 0.85
+  },
+  "Quantum Innovations": {
+    "collaboration": 0.9,
+    "technology": 0.85
+  },
+  "Green Mobility Initiative": {
+    "partnership": 0.85,
+    "focus": 0.8
+  },
+  "Earth Guardians": {
+    "collaboration": 0.8,
+    "initiative": 0.75
+  },
+  "International Auto Show": {
+    "event_type": 0.9,
+    "location": 0.85
+  },
+  "sustainable transport": {
+    "goal": 0.9,
+    "performance": 0.85
+  },
+  "automotive enthusiasts": {
+    "excitement": 0.8,
+    "anticipation": 0.85
+  },
+  "environmental advocates": {
+    "excitement": 0.8,
+    "anticipation": 0.85
+  },
+  "industry analysts": {
+    "prediction": 0.85,
+    "impact": 0.8
+  },
+  "Sarah Caldwell": {
+    "role": 0.9,
+    "emotion": 0.8
+  },
+  "Luminous Labs": {
+    "type": 0.95,
+    "location": 0.9
+  },
+  "GenomeSynth Analyzer": {
+    "type": 0.85,
+    "function": 0.9
+  },
+  "Austin, Texas": {
+    "type": 0.95,
+    "significance": 0.8
+  },
+  "Innovare Research Consortium": {
+    "type": 0.8,
+    "collaboration": 0.85
+  },
+  "The Bright Minds": {
+    "type": 0.75,
+    "composition": 0.9
+  },
+  "international scientific community": {
+    "reaction": 0.85,
+    "anticipation": 0.9
+  },
+  "Alessandro Rossi": {
+    "role": 0.9,
+    "inspiration": 0.8
+  },
+  "Terra Nuova": {
+    "location": 0.95,
+    "concept": 0.9,
+    "sustainability": 0.85,
+    "popularity": 0.9
+  },
+  "Ethereal Eats": {
+    "role": 0.9,
+    "strategy": 0.85
+  },
+  "Green Harvest Cooperative": {
+    "dedication": 0.9,
+    "collaboration": 0.8
+  },
+  "New York City": {
+    "significance": 0.9
+  },
+  "culinary world": {
+    "development": 0.8,
+    "trend": 0.85
+  },
+  "sustainable luxury": {
+    "definition": 0.8,
+    "importance": 0.85
+  },
+  "signature dishes": {
+    "appeal": 0.8
+  },
+  "future locations": {
+    "cities": 0.75
+  }
+}

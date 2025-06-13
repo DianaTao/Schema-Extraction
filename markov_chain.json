@@ -1,0 +1,246 @@
+{
+  "PERSON": {
+    "birthDate": 0.09,
+    "birthPlace": 0.09,
+    "gender": 0.09,
+    "ethnicity": 0.09,
+    "languageSkills": 0.09,
+    "maritalStatus": 0.09,
+    "nationality": 0.09,
+    "numberOfObservations": 0.09,
+    "physicalAddresses": 0.09,
+    "employmentRecords": 0.09,
+    "educationalRecords": 0.09
+  },
+  "birthDate": {
+    "PERSON": 1.0
+  },
+  "birthPlace": {
+    "PERSON": 1.0
+  },
+  "gender": {
+    "PERSON": 1.0
+  },
+  "ethnicity": {
+    "PERSON": 1.0
+  },
+  "languageSkills": {
+    "PERSON": 1.0
+  },
+  "maritalStatus": {
+    "PERSON": 1.0
+  },
+  "nationality": {
+    "PERSON": 0.17,
+    "CORPORATION": 0.17,
+    "CREATIVE_WORK": 0.17,
+    "GROUP": 0.17,
+    "LOCATION": 0.17,
+    "PRODUCT": 0.17
+  },
+  "numberOfObservations": {
+    "PERSON": 0.17,
+    "CORPORATION": 0.17,
+    "CREATIVE_WORK": 0.17,
+    "GROUP": 0.17,
+    "LOCATION": 0.17,
+    "PRODUCT": 0.17
+  },
+  "physicalAddresses": {
+    "PERSON": 0.17,
+    "CORPORATION": 0.17,
+    "CREATIVE_WORK": 0.17,
+    "GROUP": 0.17,
+    "LOCATION": 0.17,
+    "PRODUCT": 0.17
+  },
+  "employmentRecords": {
+    "PERSON": 1.0
+  },
+  "educationalRecords": {
+    "PERSON": 1.0
+  },
+  "CORPORATION": {
+    "industry": 0.1,
+    "foundedDate": 0.1,
+    "founders": 0.1,
+    "headquarters": 0.1,
+    "numberOfEmployees": 0.1,
+    "annualRevenue": 0.1,
+    "marketCap": 0.1,
+    "nationality": 0.1,
+    "numberOfObservations": 0.1,
+    "physicalAddresses": 0.1
+  },
+  "industry": {
+    "CORPORATION": 1.0
+  },
+  "foundedDate": {
+    "CORPORATION": 1.0
+  },
+  "founders": {
+    "CORPORATION": 1.0
+  },
+  "headquarters": {
+    "CORPORATION": 1.0
+  },
+  "numberOfEmployees": {
+    "CORPORATION": 1.0
+  },
+  "annualRevenue": {
+    "CORPORATION": 1.0
+  },
+  "marketCap": {
+    "CORPORATION": 1.0
+  },
+  "CREATIVE_WORK": {
+    "title": 0.08,
+    "creator": 0.08,
+    "publicationDate": 0.08,
+    "genre": 0.08,
+    "language": 0.08,
+    "format": 0.08,
+    "publisher": 0.08,
+    "distributionChannels": 0.08,
+    "availabilityStatus": 0.08,
+    "nationality": 0.08,
+    "numberOfObservations": 0.08,
+    "physicalAddresses": 0.08
+  },
+  "title": {
+    "CREATIVE_WORK": 1.0
+  },
+  "creator": {
+    "CREATIVE_WORK": 1.0
+  },
+  "publicationDate": {
+    "CREATIVE_WORK": 1.0
+  },
+  "genre": {
+    "CREATIVE_WORK": 1.0
+  },
+  "language": {
+    "CREATIVE_WORK": 1.0
+  },
+  "format": {
+    "CREATIVE_WORK": 1.0
+  },
+  "publisher": {
+    "CREATIVE_WORK": 1.0
+  },
+  "distributionChannels": {
+    "CREATIVE_WORK": 0.5,
+    "PRODUCT": 0.5
+  },
+  "availabilityStatus": {
+    "CREATIVE_WORK": 1.0
+  },
+  "GROUP": {
+    "groupName": 0.09,
+    "groupType": 0.09,
+    "foundingDate": 0.09,
+    "members": 0.09,
+    "leadership": 0.09,
+    "activities": 0.09,
+    "activityStatus": 0.09,
+    "activityLocations": 0.09,
+    "nationality": 0.09,
+    "numberOfObservations": 0.09,
+    "physicalAddresses": 0.09
+  },
+  "groupName": {
+    "GROUP": 1.0
+  },
+  "groupType": {
+    "GROUP": 1.0
+  },
+  "foundingDate": {
+    "GROUP": 1.0
+  },
+  "members": {
+    "GROUP": 1.0
+  },
+  "leadership": {
+    "GROUP": 1.0
+  },
+  "activities": {
+    "GROUP": 1.0
+  },
+  "activityStatus": {
+    "GROUP": 1.0
+  },
+  "activityLocations": {
+    "GROUP": 1.0
+  },
+  "LOCATION": {
+    "locationName": 0.09,
+    "locationType": 0.09,
+    "coordinates": 0.09,
+    "region": 0.09,
+    "country": 0.09,
+    "establishedDate": 0.09,
+    "significantEvents": 0.09,
+    "population": 0.09,
+    "nationality": 0.09,
+    "numberOfObservations": 0.09,
+    "physicalAddresses": 0.09
+  },
+  "locationName": {
+    "LOCATION": 1.0
+  },
+  "locationType": {
+    "LOCATION": 1.0
+  },
+  "coordinates": {
+    "LOCATION": 1.0
+  },
+  "region": {
+    "LOCATION": 1.0
+  },
+  "country": {
+    "LOCATION": 1.0
+  },
+  "establishedDate": {
+    "LOCATION": 1.0
+  },
+  "significantEvents": {
+    "LOCATION": 1.0
+  },
+  "population": {
+    "LOCATION": 1.0
+  },
+  "PRODUCT": {
+    "productName": 0.09,
+    "productType": 0.09,
+    "manufacturer": 0.09,
+    "releaseDate": 0.09,
+    "specifications": 0.09,
+    "price": 0.09,
+    "availability": 0.09,
+    "distributionChannels": 0.09,
+    "nationality": 0.09,
+    "numberOfObservations": 0.09,
+    "physicalAddresses": 0.09
+  },
+  "productName": {
+    "PRODUCT": 1.0
+  },
+  "productType": {
+    "PRODUCT": 1.0
+  },
+  "manufacturer": {
+    "PRODUCT": 1.0
+  },
+  "releaseDate": {
+    "PRODUCT": 1.0
+  },
+  "specifications": {
+    "PRODUCT": 1.0
+  },
+  "price": {
+    "PRODUCT": 1.0
+  },
+  "availability": {
+    "PRODUCT": 1.0
+  }
+}

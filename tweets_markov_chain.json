@@ -1,0 +1,48 @@
+{
+  "Sapphire Gardens": {
+    "location": 0.9,
+    "type": 0.8
+  },
+  "Kyoto": {
+    "location": 0.95,
+    "type": 0.9
+  },
+  "EcoTraverse": {
+    "type": 0.85,
+    "service": 0.9
+  },
+  "Whispers of the Ancients": {
+    "type": 0.9,
+    "format": 0.8
+  },
+  "TravelDiaries": {
+    "type": 0.7,
+    "category": 0.6
+  },
+  "BookLovers": {
+    "type": 0.7,
+    "category": 0.6
+  },
+  "Dragon's Peak": {
+    "location": 0.9,
+    "landscape": 0.8
+  },
+  "AdventureCrew": {
+    "organization": 0.95,
+    "activity": 0.85
+  },
+  "Galactic Tides": {
+    "title": 0.9,
+    "genre": 0.8
+  },
+  "StellarReads": {
+    "organization": 0.9,
+    "activity": 0.7
+  },
+  "TravelGoals": {
+    "hashtag": 0.9
+  },
+  "BookWorm": {
+    "hashtag": 0.85
+  }
+}
